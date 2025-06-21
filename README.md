@@ -1,4 +1,4 @@
-#📚 Projeto Java - HL - Springboot
+📚 Projeto Java - HL - Springboot
 Descrição
 Este projeto é uma aplicação desenvolvida em Java, com o objetivo de [descrever o propósito do projeto de forma simples e objetiva, ex: "realizar a gestão de pedidos de uma loja", "indexar e buscar respostas usando TF-IDF", etc].
 
